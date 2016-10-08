@@ -1,0 +1,1 @@
+Change the paths of assignment.h,asignment.cpp,check.cpp as suitable
